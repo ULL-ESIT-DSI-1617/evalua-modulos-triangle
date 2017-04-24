@@ -1,0 +1,22 @@
+{
+  "name": "@chinegua/evalua-modulos-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "evalua-modulos-triangle": "triangle.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/evalua-modulos-triangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/evalua-modulos-triangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/evalua-modulos-triangle#readme"
+}
